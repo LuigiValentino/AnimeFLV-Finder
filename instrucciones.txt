@@ -1,0 +1,27 @@
+Instrucciones de Uso
+
+
+    Buscar un Anime:
+        Ejecuta el programa.
+        Ingresa el nombre del anime que deseas buscar cuando se te solicite.
+        El programa mostrará una lista de resultados que coinciden con tu búsqueda.
+
+    Seleccionar un Anime:
+        Revisa la lista de resultados y elige el número correspondiente al anime que deseas ver.
+        El programa mostrará todos los episodios disponibles para ese anime en orden.
+
+    Seleccionar un Episodio y Calidad:
+        Selecciona el número del episodio que deseas ver.
+        Luego, selecciona el número del servidor y la calidad preferida.
+
+    Reproducir el Episodio:
+        El enlace del episodio seleccionado se abrirá automáticamente en tu navegador predeterminado.
+        Disfruta viendo tu anime directamente en tu navegador.
+
+    Finalizar:
+        Una vez terminado, puedes cerrar la terminal o realizar una nueva búsqueda.
+
+            Notas Adicionales
+                Asegúrate de tener una conexión a internet activa para buscar y reproducir los episodios.
+                Si no se encuentran resultados para tu búsqueda, intenta con otro nombre o revisa la ortografía.
+                El programa está diseñado para facilitar la navegación y selección de episodios, haciendo que la experiencia sea fluida y fácil de usar.
